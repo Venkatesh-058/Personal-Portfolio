@@ -1,0 +1,114 @@
+/* Start Of Custom CSS For Navigation Bar*/
+a{
+  color: white !important;
+  font-size: 1.33rem;
+  margin: 0 1.5rem;
+}
+.navbar-brand{
+  font-size: 2.25rem;
+}
+@media screen and (max-width: 992px){
+  a{
+    margin: 0 0;
+  }
+}
+.bi-person-workspace{
+  color:  greenyellow;
+  font-size: 2.25rem;
+}
+/* End Of Custom CSS For Navigation Bar */
+
+
+
+
+/* Start Of Custom CSS For Home Section */
+#homecon{
+  padding: 0px;
+  background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: scroll;
+  height: 600px;
+}
+.homebtn{
+  font-size: 1.5rem;
+}
+.homep{
+  font-size: 1.2rem;
+}
+.bi-file-arrow-down-fill{
+  color: greenyellow;
+}
+.bi-chevron-right{
+  color: greenyellow;
+}
+/* End Of Custom CSS For Home Section */
+
+
+
+
+/* Start Of Custom CSS For About Section */
+#about{
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+.aboutp{
+  font-size: 1.3rem;
+  font-style: italic;
+  font-weight: 500;
+}
+/* End Of Custom CSS For About Section */
+
+
+
+
+/* Start Of Custom CSS For Projects Section */
+.projectsicon{
+  font-size: 1.8rem;
+}
+.projectslink{
+  font-size: 1.5rem;
+  border: 2px solid red;
+  padding: 5px;
+  border-radius: 5px;
+}
+.projectsp{
+  text-align: justify;
+}
+/* End Of Custom CSS For Projects Section */
+
+
+
+
+/* Start Of Custom CSS For skills Reach Me Section */
+.form-label{
+  font-weight: bold;
+}
+/* End Of Custom CSS For skills Reach Me Section */
+
+
+
+
+/* Start Of Custom CSS For Contact Section */
+.sm{
+  font-size: 2rem;
+}
+.sm2{
+  font-size: 1.3rem;
+}
+.contact3{
+  font-size: 1.2rem;
+}
+.address_part{
+  font-size: 1.3rem;
+}
+/* End Of Custom CSS For Contact Section */
+
+
+
+
+/* Start Of Custom CSS For Footer Section */
+.footerp{
+  font-size: 1.3rem;
+}
+/* End Of Custom CSS For Footer Section */
